@@ -1,0 +1,9 @@
+*.o
+*.a
+*.so
+lab2/src/swap/swap
+lab2/src/revert_string/rvs
+lab2/src/revert_string/rvs_static
+lab2/src/revert_string/rvs_dynamic
+swap_prog
+a.out
